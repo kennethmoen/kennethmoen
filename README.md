@@ -8,7 +8,6 @@
   - [osTicket: Post-Installation Configuration](https://github.com/kennethmoen/post-install-config/tree/main#readme)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kennethmoen/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Azure Crash Course](https://github.com/Coder-B98/Azure-CC)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Coder-B98/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Coder-B98/azure-network-protocols)
 - <b>Introduction to Virtual Private Networks (VPNs)</b>
