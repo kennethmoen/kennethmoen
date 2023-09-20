@@ -1,9 +1,33 @@
-- 👋Hi, I'm Kenneth, an IT Professional
-Information Technology Projects:
-- osTicket (Help Desk Ticketing System)
-<a https://github.com/kennethmoen/osticket-prereqs </a>
+<h1>Hi, I'm Kenneth, an <a href="https://www.linkedin.com/in/benjaminbode98
+">IT Professional</a></h1>
 
-<!---
-kennethmoen/kennethmoen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2> Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/Coder-B98/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/Coder-B98/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Coder-B98/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Azure Crash Course](https://github.com/Coder-B98/Azure-CC)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Coder-B98/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Coder-B98/azure-network-protocols)
+- <b>Introduction to Virtual Private Networks (VPNs)</b>
+    - [VPN Setup and Explantion](https://github.com/Coder-B98/VPN)
+- <b> Domain Naming System (DNS) Basics</b>
+    - [Using Active Directory to build intuition for DNS](https://github.com/Coder-B98/DNS)
+ - <b> Network Sharing and Permissions</b>
+    - [Network Sharing and Permissions in Active Directory](https://github.com/Coder-B98/Network-Sharing)
+ 
+      
+      
+     
+
+
+
+
+
+<h2>Connect with me:</h2>
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/benjaminbode98
