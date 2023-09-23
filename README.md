@@ -7,6 +7,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/kennethmoen/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/kennethmoen/post-install-config/tree/main#readme)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kennethmoen/ticket-lifecycle)
+- <b>Introduction to Virtual Private Networks (VPNs)</b>
+    - [VPN Setup and Explantion](https://github.com/Coder-B98/VPN)
  
       
       
