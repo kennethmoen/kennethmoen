@@ -8,7 +8,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/kennethmoen/post-install-config/tree/main#readme)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kennethmoen/ticket-lifecycle)
 - <b>Introduction to Virtual Private Networks (VPNs)</b>
-    - [VPN Setup and Explantion](https://github.com/kennethmoen/VM-Setup-and-Explanation/tree/main)
+    - [VPN Setup and Explanation](https://github.com/kennethmoen/VM-Setup-and-Explanation/tree/main)
  
       
       
