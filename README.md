@@ -9,6 +9,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kennethmoen/ticket-lifecycle)
 - <b>Introduction to Virtual Private Networks (VPNs)</b>
     - [VPN Setup and Explanation](https://github.com/kennethmoen/VM-Setup-and-Explanation/tree/main)
+- <b> Domain Naming System (DNS) Basics</b>
+    - [Using Active Directory to build intuition for DNS]
  
       
       
