@@ -12,7 +12,7 @@
 - <b> Domain Naming System (DNS) Basics</b>
     - [Using Active Directory to build intuition for DNS](https://github.com/kennethmoen/Using-Active-Directory-to-build-intuition-for-DNS)
     - [Building Intuition for DNS](https://github.com/kennethmoen/Building-Intuition-For-DNS)
-    - [Network File Shares and Permissions]()
+    - [Network File Shares and Permissions](https://github.com/kennethmoen/Network-File-Shares-and-Permissions/blob/main/README.md)
   
  
       
